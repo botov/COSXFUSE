@@ -1,0 +1,5 @@
+module COSXFUSE [system] {
+  header "shims.h"
+  link "osxfuse"
+  export *
+}
