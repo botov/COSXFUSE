@@ -1,3 +1,3 @@
 # COSXFUSE
 
-A description of this package.
+For usage reference please check out [following](https://github.com/botov/Swift-HelloWorldFS) repository
